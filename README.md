@@ -19,6 +19,9 @@ __Channel Owners & Ops__: Devin and Kristian (an "Op" is a channel operator, who
 
 #### Registering Yourself
 1. In your browser of choice, navigate to https://webchat.freenode.net/. This is a *web client* that allows you to collect to the *Freenode Network*, which is an IRC network meant exclusively for the discussion of open source things like OSS and open organizations.
+
+![Freenode entrance](Images/1.png?raw=true "Freenode entrance")
+
 2. Enter a *nickname*. This is what you will go by in our IRC Channel, like a Twitter handle. I suggest using your first and last name, all lowercase, like this: `devinhalladay`.
 3. In the `Channels` field, enter `#GD399-OSD`. This is the name of the IRC Channel just for our class.
 4. Verify you're not a robot (or are you...?) and click "Connect".
