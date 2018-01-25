@@ -32,6 +32,16 @@ __Channel Owners & Ops__: Devin and Kristian — An "Op" is a channel operator, 
 
 6. Copy the command, paste it into the message box, and hit enter. You're registered now! Nice.
 
+---
 
 #### Logging In ("Identifying" Yourself)
 1. Every time you connect from now on, you'll need to *"Identify"* yourself so the server knows you're really you. Type `/msg NickServ identify [password]` and hit enter, and you should now be identified as a legit user of your chosen nickname.
+
+---
+
+#### Other Things
+- If you choose a nickname that happens to be taken, change your nickname to something else by sending the message `/nick [new_nickname]`
+- If you want more info on IRC, here are some good reads:
+  - [Freenode's Philosophy](http://freenode.net/philosophy)
+  - [What is the Freenode Project?](http://freenode.net/project)
+  - [IRC Help](http://www.irchelp.org/) — Lots of good info on IRC, and commands you can run.
