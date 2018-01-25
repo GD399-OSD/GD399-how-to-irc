@@ -26,7 +26,12 @@ __Channel Owners & Ops__: Devin and Kristian — An "Op" is a channel operator, 
 2. Enter a *nickname*. This is what you will go by in our IRC Channel, like a Twitter handle. I suggest using your first and last name, all lowercase, like this: `devinhalladay`.
 3. In the `Channels` field, enter `#GD399-OSD`. This is the name of the IRC Channel just for our class.
 4. Verify you're not a robot (or are you...?) and click "Connect".
-5. *Register* your nickname so others can't take it. To do this, type `/msg NickServ register [password] [email]` into the text box at the bottom and hit enter. You'll get an email with a new message to send that verifies your identity. Copy the command, paste it into the message box, and hit enter. You're registered now! Nice.
+5. *Register* your nickname so others can't take it. To do this, type `/msg NickServ register [password] [email]` into the text box at the bottom and hit enter. You'll get an email with a new message to send that verifies your identity.
+
+![Freenode verification](Images/2.png?raw=true "Freenode verification")
+
+6. Copy the command, paste it into the message box, and hit enter. You're registered now! Nice.
+
 
 #### Logging In ("Identifying" Yourself)
 1. Every time you connect from now on, you'll need to *"Identify"* yourself so the server knows you're really you. Type `/msg NickServ identify [password]` and hit enter, and you should now be identified as a legit user of your chosen nickname.
