@@ -25,8 +25,9 @@ __Channel Owners & Ops__: Devin and Kristian — An "Op" is a channel operator, 
 
 - [ ] Enter a *nickname*. This is what you will go by in our IRC Channel, like a Twitter handle. I suggest using your first and last name, all lowercase, like this: `devinhalladay`.
 - [ ] In the `Channels` field, enter `#GD399-OSD`. This is the name of the IRC Channel just for our class.
+- [ ] You can ignore the `Auth to services` checkbox. Skip to the `Humanity` captcha.
 - [ ] Verify you're not a robot (or are you...?) and click "Connect".
-- [ ] *Register* your nickname so others can't take it. To do this, type `/msg NickServ register [password] [email]` into the text box at the bottom and hit enter. You'll get an email with a new message to send that verifies your identity.
+- [ ] *Register* your nickname so others can't take it. To do this, type `/msg NickServ register [password] [email]` into the text box at the bottom and hit enter. Replace `[password]` with the password you want to use and replace `[email]` with the email you want to receive a message at. You'll get an email with a new message to send that verifies your identity. (replace `[password]` with something like `myawesomepassword` — make sure you also replace the brackets, not just the word password or email).
 
 ![Freenode verification](Images/2.png?raw=true "Freenode verification")
 
