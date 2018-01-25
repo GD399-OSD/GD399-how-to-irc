@@ -15,6 +15,7 @@ This is the fun part (maybe). There are many ways to connect to IRC: using a web
 
 #### Basic Info
 __Channel Name:__ `#GD399-OSD` — This is the name of the "channel" we will use for chat.
+
 __Channel Owners & Ops__: Devin and Kristian (an "Op" is a channel operator, who can kick roudy people out of the channel. Infinite power.) Really, this just ensures the channel won't be deleted.
 
 #### Registering Yourself
