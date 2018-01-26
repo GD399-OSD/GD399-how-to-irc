@@ -27,7 +27,7 @@ __Channel Owners & Ops__: Devin and Kristian — An "Op" is a channel operator, 
 - [ ] In the `Channels` field, enter `#GD399-OSD`. This is the name of the IRC Channel just for our class.
 - [ ] You can ignore the `Auth to services` checkbox. Skip to the `Humanity` captcha.
 - [ ] Verify you're not a robot (or are you...?) and click "Connect".
-- [ ] *Register* your nickname so others can't take it. To do this, type `/msg NickServ register [password] [email]` into the text box at the bottom and hit enter. Replace `[password]` with the password you want to use and replace `[email]` with the email you want to receive a message at. You'll get an email with a new message to send that verifies your identity. (replace `[password]` with something like `myawesomepassword` — make sure you also replace the brackets, not just the word password or email).
+- [ ] *Register* your nickname so others can't take it. To do this, type `/msg NickServ register password email` into the text box at the bottom and hit enter. Replace `password` with the password you want to use and replace `email` with the email you want to receive a message at. You'll get an email with a new message to send that verifies your identity.
 
 ![Freenode verification](Images/2.png?raw=true "Freenode verification")
 
@@ -36,7 +36,7 @@ __Channel Owners & Ops__: Devin and Kristian — An "Op" is a channel operator, 
 ---
 
 #### Logging In ("Identifying" Yourself)
-- [ ] Every time you connect from now on, you'll need to *"Identify"* yourself so the server knows you're really you. Type `/msg NickServ identify [password]` and hit enter, and you should now be identified as a legit user of your chosen nickname.
+- [ ] Every time you connect from now on, you'll need to *"Identify"* yourself so the server knows you're really you. Type `/msg NickServ identify password` (replace `password` with the password you chose while registering) and hit enter, and you should now be identified as a legit user of your chosen nickname.
 
 ---
 
@@ -44,7 +44,7 @@ __Channel Owners & Ops__: Devin and Kristian — An "Op" is a channel operator, 
 
 IRC has a simple direct messaging system that allows you to chat privately with a specific user. Here's how to use it:
 
-- [ ] Type the command `/msg [username] [message]`. For example, `/msg devinhalladay Hi!`.
+- [ ] Type the command `/msg username message`, where `username` is your username and `message` is your message. For example, `/msg devinhalladay Hi!`.
 
 ![Freenode DM](Images/3.png?raw=true "Freenode DM")
 
